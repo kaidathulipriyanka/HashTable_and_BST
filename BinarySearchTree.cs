@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace HashTable_and_BST_Problems
 {
     public class BinarySearchTree<T> where T : IComparable<T>
